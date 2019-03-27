@@ -3,7 +3,7 @@
 
 ```js
 // contents of state-province.min.js
-let stateOrProvince,zipCodeCache; ...
+// let stateOrProvince,zipCodeCache; ...
 
 
 addEventListener('fetch', event => {
