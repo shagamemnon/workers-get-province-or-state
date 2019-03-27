@@ -2,7 +2,7 @@
 ---
 
 ```js
-// contents of workers-state-province.min.js
+// contents of state-province.min.js
 const stateOrProvince = request => { .... }
 
 
